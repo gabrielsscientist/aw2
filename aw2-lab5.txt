@@ -1,0 +1,5 @@
+3. request (HttpServletRequest), contexto(ServletContext) e aplicação (ServletContext). 
+4. Diretiva import.
+6. session (HttpSession), request (HttpServletRequest) e contexto (ServletContext).
+7. Diretivas import.
+8. Atráves do contexto (ServletContext).
