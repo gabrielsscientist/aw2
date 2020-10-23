@@ -1,0 +1,4 @@
+2. Para informar o que o usúario deve inserir.
+   Colocando o valor da variável mensagem, da sessão do usúario, com o método setAttribute: setAttribute("mensagem", mensagem).
+   Em negrito.
+   Porquê é um formulário.
